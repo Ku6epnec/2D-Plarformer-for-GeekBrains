@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5915e070a325aa47a4c9ea3cb56839d, type: 3}
+  m_Name: AnimPinkyCfg
+  m_EditorClassIdentifier: 
+  Sequences:
+  - Track: 0
+    Sprites:
+    - {fileID: 4444314634258777182, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: 101199529595873550, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: 4497194893016368945, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: 159038054110720070, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: 7451844309600218870, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: -5433038343070063171, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: 2449866159589165579, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
+    - {fileID: -85264215477743314, guid: 37a79cf13f78f78419f342a39b4269a7, type: 3}
